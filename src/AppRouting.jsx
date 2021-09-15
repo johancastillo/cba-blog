@@ -16,6 +16,8 @@ function AppRouting() {
           rel="noopener noreferrer"
         >
           Learn React
+
+          <img src="./logo.jpeg" alt="" />
         </a>
       </header>
     </div>
